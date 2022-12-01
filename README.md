@@ -1,4 +1,4 @@
-## I'm a student Lobachevsky University (direction of training: software engineering).
+# I'm a student Lobachevsky University (direction of training: software engineering).
 
 
 ## Languages: 
