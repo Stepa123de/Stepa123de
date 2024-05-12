@@ -8,3 +8,4 @@
 ## Socials:
 [![Telegram](https://img.shields.io/badge/-Telegram-00121d?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/ToiletKeeper)
 [![Codeforces](https://img.shields.io/badge/-Codeforces-00121d?style=for-the-badge&logo=codeforces&logoColor=4F7DB3)](https://codeforces.com/profile/Namxobick)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/ToiletKeeper/)
